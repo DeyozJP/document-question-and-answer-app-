@@ -1,0 +1,13 @@
+gunicorn
+dash==2.17.0
+dash_bootstrap_components
+datetime
+pdfplumber
+llama-index==0.10.44
+chromadb==0.5.0
+openai == 1.30.1
+pysqlite3-binary
+numpy <2.0
+llama-index-vector-stores-chroma
+docx2txt
+python-dotenv
