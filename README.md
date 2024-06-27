@@ -20,7 +20,7 @@ ChromaDB: For storing and managing vector indices.
 Upload Document: The user uploads a document through the web interface.
 Indexing: The document is indexed using LlamaIndex to facilitate efficient querying.
 Querying: The user submits a question or a request for summarization.
-Processing: The system uses GPT-3.5 Turbo and ChatGPT to process the query and generate a response.
+Processing: The system uses GPT-3.5 Turbo to process the query and generate a response.
 Response: The response is displayed to the user through the web interface.
 
 
